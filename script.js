@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "uma noite calma, céu estrelado e silêncio!",
-                afirmacao: "você é introspectivo, calmo e aprecia momentos de paz e reflexão."
+                afirmacao: "Você é introspectivo, calmo e aprecia momentos de paz e reflexão."
             }
         ]
     },

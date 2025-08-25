@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Qual cenario te atrai mais"
+        enunciado: "Qual cenario te atrai mais",
         alternativas: [
             {
                 texto: "um dia ensolarado, céu azul e muito movimento",
